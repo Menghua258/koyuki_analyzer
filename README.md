@@ -1,2 +1,3 @@
 # koyuki_analyzer
-bioinformatics 
+bioinformatic tools, please enjoy!
+nihahahaha~
